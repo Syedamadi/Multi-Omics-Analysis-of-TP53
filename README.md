@@ -1,4 +1,4 @@
-# Multi-Omics-Analysis-of-TP53
+# Multi-Omics-Analysis-of-TP53 (still working on)
 Objective : Analyze TP53 mutations using NGS data, integrate RNA-Seq gene expression  data, and apply AI/ML models for insights
 
 ## step 1: Genomics and data retrieval
